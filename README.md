@@ -1,2 +1,2 @@
-# ¡Hola! Soy Romina Aviles 👋
+# ¡Buenas! Soy Romina Aviles 👋
 </div>
