@@ -9,7 +9,7 @@
 
  ▸ 📚 Ingles avanzado.
 
- ▸ 📃 <b>while(!succeed) { try(); }</b>. 
+ ▸ 📃 <b>while(!succeed) { try(); }</b>
 
  ▸ 👾 Un poco friki tal vez...
 
