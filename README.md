@@ -7,7 +7,7 @@
  
  ▸ 🎓 Estudiante de Ingenieria informatica.
 
- ▸ 📚 Ingles avanzado.
+ ▸ 📚 Ingles B2.
 
  ▸ 📃 <b>while(!succeed) { try(); }</b>
 
