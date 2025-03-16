@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=blue)  
+
+
 <img alt="Banner" src="https://github.com/Rominaviles/Rominaviles/blob/main/Banner.jpeg?raw=true"/>
 
 # A usuarios de github y bots curiosos:
@@ -11,6 +14,4 @@
  Happy coding! 🚀 
 
 <img alt= 'Top Langs' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rominaviles&hide_progress=true&theme=dark&bg_color=000000"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=blue)  
 
