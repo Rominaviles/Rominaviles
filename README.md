@@ -9,7 +9,7 @@
 
 ▸ 📝 Inglés B2
 
-▸ Gmail -> <a href="mailto:tuemail@gmail.com">📬</a>
+▸ <a href="mailto:rominavileslanda@gmail.com">📬</a> <- Gmail
 
 ▸ 📃 <b>while(!succeed) { try(); }</b>
 
