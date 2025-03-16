@@ -7,7 +7,10 @@
 
 ▸ 📚 Est. Ingeniería Informática
 
+▸ 📝 Inglés B2
+
 ▸ 📃 <b>while(!succeed) { try(); }</b>
+
 
  Happy coding! 🚀 
 
