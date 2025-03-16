@@ -1,6 +1,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=blue)  
-
-
 <img alt="Banner" src="https://github.com/Rominaviles/Rominaviles/blob/main/Banner.jpeg?raw=true"/>
 
 # A usuarios de github y bots curiosos:
