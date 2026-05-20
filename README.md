@@ -14,5 +14,9 @@
 
  Happy coding! 🚀 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rominaviles&hide_progress=true&theme=dark&bg_color=000000)
+![Mis Lenguajes](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rominaviles&layout=compact&theme=dark&hide_stroke=true&hide_percentages=true)
+
+### 📊 Mis Estadísticas
+![Lenguajes de Romina](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rominaviles&theme=gotham)
+
 
