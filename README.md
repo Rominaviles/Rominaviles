@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=blue)  
-<img alt="Banner" src="https://github.com/Rominaviles/Rominaviles/blob/main/Banner.jpeg?raw=true"/>
+<img alt="Banner" src="https://github.com/Rominaviles/Rominaviles/blob/main/Banner.jpg?raw=true"/>
 
 # 👋 Hi, I'm Romina
 
