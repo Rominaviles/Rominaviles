@@ -21,6 +21,6 @@
 • **Environments & Tools:** Kali Linux | Linux Fundamentals | Git  
 • **Core Foundations:** Networking Principles (TCP/IP, HTTP/S) | Database Security Concepts | Agile / SCRUM  
 
----
-
+<!-- 
 ![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rominaviles&layout=compact&theme=dark&hide_stroke=true&hide_percentages=true)
+-->
