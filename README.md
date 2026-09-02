@@ -17,10 +17,10 @@
 
 ### 💻 Technical Stack & Core Concepts
 
-• **Security & Testing:** OWASP Top 10 | API Security Auditing | Burp Suite | Vulnerability Assessment | Web Pentesting Methodologies  
+• **Security & Testing:** OWASP Top 10 | API Security Auditing | Burp Suite | Web Pentesting Methodologies  
 • **Environments & Tools:** Kali Linux | Linux Fundamentals | Git  
 • **Core Foundations:** Networking Principles (TCP/IP, HTTP/S) | Database Security Concepts | Agile / SCRUM  
 
-<!-- 
+
 ![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rominaviles&layout=compact&theme=dark&hide_stroke=true&hide_percentages=true)
--->
+
