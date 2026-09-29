@@ -18,7 +18,7 @@
 
 - **Security (in progress):** Pentesting fundamentals · OWASP Top 10 · Authentication & authorization in APIs
 - **Networks & Systems:** TCP/IP · HTTP/HTTPS · DNS · Windows · Linux
-- **Development:** C# (.NET Core) · REST APIs · Entity Framework Core · Node.js
+- **Development:** C# (.NET Core) · REST APIs · Entity Framework Core 
 - **Databases:** SQL Server · MongoDB
 - **Tools:** Git · GitHub
 
