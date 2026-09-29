@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Romina
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Application+Security+%26+Web+Security;Kali+Linux+%7C+OWASP+Top+10+%7C+Burp+Suite)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Application+Security+%26+Ethical+Hacking;.NET+%26+Web+Development+Background;Informatics+Engineering+Student)](https://git.io/typing-svg)
 
 ▸ 📚 **Education:** Informatics Engineering student (69% coursework completed)
 
@@ -15,11 +15,11 @@
 
 ---
 
-### 💻 Technical Stack & Core Concepts
+### 💻 My Skills and Current Studies
 
-• **Security & Testing:** OWASP Top 10 | API Security Auditing | Burp Suite | Web Pentesting Methodologies  
-• **Environments & Tools:** Kali Linux | Linux Fundamentals | Git  
-• **Core Foundations:** Networking Principles (TCP/IP, HTTP/S) | Database Security Concepts | Agile / SCRUM  
+• **Security & Practice:** OWASP Top 10 | web and API auditing | Burp Suite | vulnerability analysis in labs  
+• **Environments & Networks:** Network fundamentals | Kali Linux | Git  
+• **Technical Foundations:** .NET development | web applications | HTTP/S protocols | REST APIs | database security
 
 <!--
 ![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Rominaviles&layout=compact&theme=dark&hide_stroke=true&hide_percentages=true)
