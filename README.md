@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Application+Security+%26+Web+Security;Kali+Linux+%7C+OWASP+Top+10+%7C+Burp+Suite)](https://git.io/typing-svg)
 
-▸ 📚 **Education:** Computer Engineering Student (69% coursework completed)
+▸ 📚 **Education:** Informatics Engineering student (69% coursework completed)
 
 ▸ 🛡️ **Focus:** Application Security (AppSec) & Web Security
 
