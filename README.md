@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Romina
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Offensive+%26+Defensive+Cybersecurity;Pentesting+%26+Networking;Informatics+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Offensive+%26+Defensive+Cybersecurity;Pentesting+%26+Networking;Informatics+Engineering+Student)](https://git.io/typing-svg)
 
 ▸ 🛡️ **Focus:** Offensive & defensive cybersecurity.
 
